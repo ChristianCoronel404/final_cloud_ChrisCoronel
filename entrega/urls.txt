@@ -1,4 +1,4 @@
 Repo GitHub: https://github.com/ChristianCoronel404/final_cloud_ChrisCoronel
 S3 web (Lab 2): http://mundial-web-coronel.s3-website-us-east-1.amazonaws.com/
-API Gateway base (Lab 3):
-Kubernetes puerto 30080 (Lab 4):
+API Gateway base (Lab 3): https://xn5pjaict3.execute-api.us-east-1.amazonaws.com/prod
+Kubernetes puerto 30080 (Lab 4): http://localhost:30080
