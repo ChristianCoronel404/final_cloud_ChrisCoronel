@@ -49,6 +49,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       # 1. Configurar credenciales AWS (aws-actions/configure-aws-credentials@v4)
+      
       # 2. aws s3 sync app/ s3://${{ secrets.S3_BUCKET_WEB }}/ ...
 ```
 
